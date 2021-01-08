@@ -1,0 +1,8 @@
+#mainNav {
+}
+
+@media (max-width: 576px) {
+  #mainNav .navbar-brand {
+  }
+}
+
